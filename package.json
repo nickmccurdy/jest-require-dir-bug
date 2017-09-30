@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "require-dir": "^0.3.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
